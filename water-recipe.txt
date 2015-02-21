@@ -1,0 +1,6 @@
+1. find a water
+2. find a glass
+3. put a water into glass
+4. drink it up
+5. clean after yourself
+
